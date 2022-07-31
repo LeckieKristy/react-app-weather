@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  border: 3.5px solid rgba(95, 17, 3, 0.801);
+  border-radius: 10px;
+  max-width: 500px;
+  margin: 30px auto;
+}
+body {
+  font-family: "Signika Negative", sans-serif;
+  background-image: radial-gradient(
+    circle farthest-corner at 0% -0.5%,
+    rgba(135, 206, 250, 1) 0%,
+    rgba(255, 182, 193, 1) 100.2%
+  );
+  background-repeat: repeat-x;
+}
