@@ -3,8 +3,6 @@
   padding: 20px;
   border: 3.5px solid rgba(95, 17, 3, 0.801);
   border-radius: 10px;
-  max-width: 500px;
-  margin: 30px auto;
 }
 body {
   font-family: "Signika Negative", sans-serif;
@@ -14,4 +12,6 @@ body {
     rgba(255, 182, 193, 1) 100.2%
   );
   background-repeat: repeat-x;
+  max-width: 500px;
+  margin: 30px auto;
 }
