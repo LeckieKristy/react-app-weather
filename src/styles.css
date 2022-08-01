@@ -15,3 +15,9 @@ body {
   max-width: 500px;
   margin: 30px auto;
 }
+.forecast {
+  list-style: none;
+}
+.footer {
+  font-size: 15px;
+}
